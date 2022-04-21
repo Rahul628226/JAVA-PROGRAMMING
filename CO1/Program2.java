@@ -26,7 +26,7 @@ for(j=0;j<c1;j++)
 m1[i][j]=m.nextInt();
 }
 } 
-System.out.println("enter 1st matrix");
+System.out.println("enter second matrix");
 for(i=0;i<r2;i++)
 {
 for(j=0;j<c2;j++)
